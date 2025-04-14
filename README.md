@@ -1,4 +1,4 @@
-# Api REST que recupera una vez al dia la efemeride desde la AI Gemini
+# API REST que recupera una vez al dia la efemeride desde la AI Gemini
 
 ## Pasos para correr proyector:
 
@@ -12,5 +12,4 @@
 
 ### Eliminar contenedor y volumes
 
--
-docker compose -f docker-compose-db.yml down -v
+      docker compose -f docker-compose-db.yml down -v
