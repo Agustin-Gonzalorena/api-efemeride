@@ -35,3 +35,5 @@ build/
 # Ignorar archivos .env pero no .env.example
 .env*
 !.env.example
+
+*.tar
